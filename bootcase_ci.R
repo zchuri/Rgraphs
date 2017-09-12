@@ -3,7 +3,7 @@
 #######################################################################################################
 
 # This plot is a generalization of the code of EDi (https://stackoverflow.com/users/511399/edi)
-# to instead of create parametric confidence intervals (CI), these are built based in a case 
+# instead of create parametric confidence intervals (CI), these are built based in a case 
 # bootstrap resampling. This is the link for the parametric CI.
 # https://stackoverflow.com/questions/14069629/plotting-confidence-intervals
 
